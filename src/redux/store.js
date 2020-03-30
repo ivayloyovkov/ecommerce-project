@@ -8,6 +8,8 @@ const middlewares = [];
 
 if (process.env.NODE_ENV !== "production") {
   middlewares.push(logger);
+} else {
+  middlewares.length = 0;
 }
 
 export const store = createStore(rootReducer, applyMiddleware(...middlewares));

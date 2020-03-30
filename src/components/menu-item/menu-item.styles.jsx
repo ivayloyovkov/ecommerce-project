@@ -38,7 +38,6 @@ export const BackgroundImageContainer = styled.div`
 `;
 
 export const ContentContainer = styled.div`
-  height: 10%;
   width: 5%;
   padding: 0 25px;
   display: flex;
@@ -59,6 +58,7 @@ export const ContentTitle = styled.h1`
 `;
 
 export const ContentSubTitle = styled.span`
-  font-weight: lighter;
-  font-size: 16px;
-`;
+         font-weight: lighter;
+         font-size: 16px;
+         margin-bottom: 15px;
+       `;
