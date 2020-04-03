@@ -37,8 +37,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![IY-CRWN Clothing E-Commerce Web App Project Screenshot][product-screenshot]](https://www.ivayloyovkov.com/assets/ecommerce-img.47ceb38aaa79650a04ce47c06b1b9eed.png)
+[IY-CRWN Clothing E-Commerce Web App Project Screenshot](https://i.imgur.com/9in4iPD.jpg)
+![IY-CRWN Clothing E-Commerce Web App Project Screenshot](ivayloyovkov/ecommerce-project/tree/master/src/assets/ecommerce-img.png)
 
 Ecommerce web store app build from scratch. Technologies used - React, Redux, React Hooks, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe, etc. This is the second big web app I've built and I'm still optimizing and improving it in these days. I've managed to dive deeper into a lot of technologies like React+Redux, GraphQL+Apollo, Firebase and Stripe integrations and many more. What I've liked the most was the folder structure/management and how to properly build the project into small readable files and folders. I've also learned how to build small reusable React components as well as the steps to a good file management in Redux that I can folow and reuse in the future.
 
